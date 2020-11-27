@@ -1,0 +1,25 @@
+.registration-container{
+    position: relative;
+    background: #F8FAFC;
+    text-align: center;
+    
+}
+
+.registration{
+    width: 500px;
+    height: auto;
+    text-align: left !important;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding:3%;
+    border-radius: 4px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB; 
+}
+.submitBtn{
+    display: flex;
+    text-align: center !important;
+    box-sizing: border-box;
+    height: 48px;
+    background: #3F90FC;
+}

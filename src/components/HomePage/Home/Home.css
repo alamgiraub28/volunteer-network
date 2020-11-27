@@ -1,0 +1,7 @@
+.bg-pic{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.975), rgba(255, 255, 255, 0.851)),
+    url('../../../images/bg-social.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
