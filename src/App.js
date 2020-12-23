@@ -21,7 +21,7 @@ function App() {
   
   return (
     <UserContext.Provider value={[loggedInUser, setLoggedInUser]}>
-     <p>{loggedInUser.name}</p>
+     <p className="bg-info text-white">{loggedInUser.name}</p>
     <Router>
        <Switch>
           <Route path="/home">

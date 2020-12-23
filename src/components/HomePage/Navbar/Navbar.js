@@ -11,7 +11,7 @@ const Navbar = () => {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item pt-2 active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="http://localhost:3000/home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item pt-2">
               <a class="nav-link" href="#">Donation</a>

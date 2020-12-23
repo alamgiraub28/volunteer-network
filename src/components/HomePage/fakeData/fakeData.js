@@ -110,5 +110,3 @@ const volunteerServices = [
 
 export default volunteerServices;
 
-// https://i.ibb.co/0Q6FHBz/extra-Volunteer.png
-

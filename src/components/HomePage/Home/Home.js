@@ -10,7 +10,7 @@ const Home = () => {
         <div className="container App">
             <div className="row mt-5 card-container mx-auto">
             {
-            volunteerServices.map(vService =><ServiceName key={vService.itemId} vService={vService}></ServiceName>)
+            volunteerServices.map(volunteerServices => <ServiceName key={volunteerServices.name} volunteerServices={volunteerServices}></ServiceName>)
             }
 
             </div>
